@@ -1,0 +1,9 @@
+@media screen and (Max-width:1000px){
+    .gioithieu{
+      width: 50%;
+
+    }
+    .gioithieu table th{
+        width: 200px;
+    }
+}
